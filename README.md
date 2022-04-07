@@ -12,10 +12,11 @@
 <h3>Run project</h3>
 
 1. Install virtualenv: `pip3 install virtualenv`
-2. Create venv for project: `virtualenv -p python3 venv`
-3. Activate venv: `source venv/bin/activate`
-4. Install requirements: `pip install -r requirements.txt`
-5. Run server: `python manage.py runserver`
+2. Go to `<directory_with_cloned_project>/greenely_backend_test/`
+3. Create venv for project: `virtualenv -p python3 venv`
+4. Activate venv: `source venv/bin/activate`
+5. Install requirements: `pip install -r requirements.txt`
+6. Run server: `python manage.py runserver`
 
 <h3>Run tests</h3>
 
